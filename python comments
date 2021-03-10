@@ -1,0 +1,10 @@
+#comments are used to explain python code
+#comments are used to explain python code
+'''two ways to write comments'''
+'''first way by using #'''
+#this is a comment
+print("single line comments")
+'''this is a comment'''
+print("multiple line comment")
+single line comments
+multiple line comment
